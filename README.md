@@ -38,3 +38,9 @@ Open the Jupyter notebooks in VS Code:
 ## Next Steps
 
 Once you have your API key configured, run the notebooks to explore the Claude API capabilities.
+
+## Embeddings Workbook Note
+
+- To run the embeddings workbook (`002_embeddings.ipynb`), you also need a VoyageAI API key.
+- Store that key locally and do not commit it to source control.
+- If you do not have a VoyageAI API key yet, sign up at the VoyageAI portal and add it to your environment configuration before running the embeddings workbook.
