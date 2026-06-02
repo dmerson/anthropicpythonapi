@@ -43,4 +43,4 @@ Once you have your API key configured, run the notebooks to explore the Claude A
 
 - To run the embeddings workbook (`002_embeddings.ipynb`), you also need a VoyageAI API key.
 - Store that key locally and do not commit it to source control.
-- If you do not have a VoyageAI API key yet, sign up at the VoyageAI portal and add it to your environment configuration before running the embeddings workbook.
+- If you do not have a VoyageAI API key yet, sign up at the VoyageAI portal and add it to your environment configuration before running the embeddings workbook. There are instructions in the VoyagerAI_API_Key_Directions.pdf. 
